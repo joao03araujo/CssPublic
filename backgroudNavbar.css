@@ -1,7 +1,11 @@
 body {
-    background: blue;
+    background: aliceblue;
 }
 
-h1.title{
-    color: green;
+#captionElement {
+    display: none;
+}
+
+#button-card {
+    background: linear-gradient(45deg, black, transparent)
 }
