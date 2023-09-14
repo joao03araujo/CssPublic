@@ -1,5 +1,5 @@
 body {
-    background: aliceblue;
+    background: dimgray;
 }
 
 .mainContent {
@@ -8,6 +8,10 @@ body {
 
 #7438b294-8332-4e0a-97db-c331b4b6875c {
     display: none !important;
+}
+
+.b_a_6b55bba6 {
+    background-color: dimgray !important;
 }
 
 .a_b_50a7110f  {
