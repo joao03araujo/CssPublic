@@ -2,10 +2,14 @@ body {
     background: aliceblue;
 }
 
-.title-208 {
-    display: none;
+.mainContent {
+    display: flex;
 }
 
-.content-117 {
+/* .title-208 {
+    display: none;
+} */
+
+/* .content-117 {
     background: linear-gradient(45deg, black, transparent)
-}
+} */
