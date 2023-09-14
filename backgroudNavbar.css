@@ -7,12 +7,12 @@ body {
 }
 
 #7438b294-8332-4e0a-97db-c331b4b6875c {
-    display: none !important
+    display: none !important;
 }
 
-/* .title-208 {
-    display: none;
-} */
+.root-94.root-94.root-94.root-94.root-94 {
+    background-color: dimgray !important;
+}
 
 .ms-List-cell a {
     background: linear-gradient(45deg, black, transparent)
